@@ -25,3 +25,7 @@ const myFunction = function(){
 
 //typeof asking in interview  null==object
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//Stack and Heap memory management
+//Stack (Primitive  datatype : Stored Value in stack)
+//Heap (Non Primitive Datatype : Stored Address(Refrence) in memory)
